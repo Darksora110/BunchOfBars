@@ -1,0 +1,23 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+
+<Script file="Name\Name.lua"/>
+<Script file="HealthBar\HealthBar.lua"/>
+<Script file="HealthBarText\HealthBarText.lua"/>
+<Script file="Agro\Agro.lua"/>
+<Script file="Highlight\Highlight.lua"/>
+<Script file="Range\Range.lua"/>
+<Script file="Buffs\Buffs.lua"/>
+<Script file="Dispel\Dispel.lua"/>
+<Script file="Maintank\Maintank.lua"/>
+<Script file="RaidIcon\RaidIcon.lua"/>
+<Script file="VisualHeal\VisualHeal.lua"/>
+<Script file="Tooltip\Tooltip.lua"/>
+<Script file="VoiceIcon\VoiceIcon.lua"/>
+<Script file="ManaBar\ManaBar.lua"/>
+<Script file="Threshold\Threshold.lua"/>
+<Script file="Debuffs\Debuffs.lua"/>
+<Script file="ReadyCheck\ReadyCheck.lua"/>
+<Script file="PetBar\PetBar.lua"/>
+
+</Ui>

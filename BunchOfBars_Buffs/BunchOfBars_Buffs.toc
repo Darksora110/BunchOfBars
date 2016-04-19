@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: BunchOfBars [|cffeda55fBuffs|r]
+## Version: 1.0
+## Notes: Show hots and buffs.
+## Author: Firik
+## Dependencies: BunchOfBars
+## X-Curse-Packaged-Version: r110
+## X-Curse-Project-Name: BunchOfBars
+## X-Curse-Project-ID: bunch-of-bars
+## X-Curse-Repository-ID: wow/bunch-of-bars/mainline
+
+Buffs.lua

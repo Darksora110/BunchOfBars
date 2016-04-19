@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: BunchOfBars [|cffeda55fVoiceIcon|r]
+## Version: 1.0
+## Notes: Shows when someone is talking.
+## Author: Firik
+## Dependencies: BunchOfBars
+## OptionalDeps: BunchOfBars_HealthBar
+## X-Curse-Packaged-Version: r110
+## X-Curse-Project-Name: BunchOfBars
+## X-Curse-Project-ID: bunch-of-bars
+## X-Curse-Repository-ID: wow/bunch-of-bars/mainline
+
+VoiceIcon.lua

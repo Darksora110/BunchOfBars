@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: BunchOfBars [|cffeda55fVisualHeal|r]
+## Notes: Visualises healing done by you and your party/raid members directly on the unit frames.
+## Author: xbeeps
+## Dependencies: BunchOfBars
+## X-Curse-Packaged-Version: r110
+## X-Curse-Project-Name: BunchOfBars
+## X-Curse-Project-ID: bunch-of-bars
+## X-Curse-Repository-ID: wow/bunch-of-bars/mainline
+
+VisualHeal.lua

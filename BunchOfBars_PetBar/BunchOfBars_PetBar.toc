@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: BunchOfBars [|cffeda55fPetBar|r]
+## Version: 1.0
+## Notes: Unit Pet Bar.
+## Author: Firik
+## Dependencies: BunchOfBars
+## OptionalDeps: BunchOfBars_PetBar
+## X-Curse-Packaged-Version: r110
+## X-Curse-Project-Name: BunchOfBars
+## X-Curse-Project-ID: bunch-of-bars
+## X-Curse-Repository-ID: wow/bunch-of-bars/mainline
+
+PetBar.lua

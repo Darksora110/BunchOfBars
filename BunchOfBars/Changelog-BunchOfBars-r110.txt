@@ -1,0 +1,36 @@
+------------------------------------------------------------------------
+r110 | Mininova | 2010-02-10 19:18:13 +0000 (Wed, 10 Feb 2010) | 2 lines
+Changed paths:
+   M /trunk/DebuffTable.lua
+   M /trunk/Debuffs/Debuffs.lua
+
+BunchOfBars:
+- added some more debuffs
+------------------------------------------------------------------------
+r109 | Mininova | 2009-12-24 16:57:30 +0000 (Thu, 24 Dec 2009) | 3 lines
+Changed paths:
+   M /trunk/Agro/BunchOfBars_Agro.toc
+   M /trunk/Buffs/BunchOfBars_Buffs.toc
+   M /trunk/BunchOfBars.toc
+   M /trunk/DebuffTable.lua
+   M /trunk/Debuffs/BunchOfBars_Debuffs.toc
+   M /trunk/Dispel/BunchOfBars_Dispel.toc
+   M /trunk/HealthBar/BunchOfBars_HealthBar.toc
+   M /trunk/HealthBarText/BunchOfBars_HealthBarText.toc
+   M /trunk/Highlight/BunchOfBars_Highlight.toc
+   M /trunk/Maintank/BunchOfBars_Maintank.toc
+   M /trunk/ManaBar/BunchOfBars_ManaBar.toc
+   M /trunk/Name/BunchOfBars_Name.toc
+   M /trunk/PetBar/BunchOfBars_PetBar.toc
+   M /trunk/RaidIcon/BunchOfBars_RaidIcon.toc
+   M /trunk/Range/BunchOfBars_Range.toc
+   M /trunk/ReadyCheck/BunchOfBars_ReadyCheck.toc
+   M /trunk/Threshold/BunchOfBars_Threshold.toc
+   M /trunk/Tooltip/BunchOfBars_Tooltip.toc
+   M /trunk/VisualHeal/BunchOfBars_VisualHeal.toc
+   M /trunk/VoiceIcon/BunchOfBars_VoiceIcon.toc
+
+BunchOfBars:
+- added some Icecrown debuffs
+- updated .toc files
+------------------------------------------------------------------------

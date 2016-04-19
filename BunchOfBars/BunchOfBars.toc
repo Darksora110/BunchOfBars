@@ -1,0 +1,24 @@
+## Interface: 30300
+## Title: BunchOfBars |cff7fff7f -Ace2-|r
+## Version: 1.1
+## Notes: Modular and lightweight party/raid frames.
+## Author: Firik
+## X-Category: UnitFrame
+## SavedVariables: BunchOfBars2DB
+## OptionalDeps: Ace2, CallbackHandler-1.0, Dewdrop-2.0, FuBarPlugin-2.0, LibDogTag-3.0, LibDogTag-Unit-3.0, LibHealComm-3.0, LibSharedMedia-3.0, LibStub, oRA2, CT_RaidAssist, DrDamage, LibSharedMedia-3.0
+## X-Curse-Packaged-Version: r110
+## X-Curse-Project-Name: BunchOfBars
+## X-Curse-Project-ID: bunch-of-bars
+## X-Curse-Repository-ID: wow/bunch-of-bars/mainline
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Core.lua
+Layout.lua
+Prototype.lua
+
+DebuffTable.lua
+
+modules.xml
